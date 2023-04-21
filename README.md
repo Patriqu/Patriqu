@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-Hello 👋 I'm a Software Engineer with more than 5 years of commercial experience in writing web applications mainly in Java and JavaScript.
+Hello 👋 I'm a Software Engineer with more than 5 years of commercial experience in writing backend web applications in Java and also in plain JavaScript & jQuery on frontend. I'm also have an experience in writing Python and C++ programs.
 
 🌱 I’m currently improving my knowledge of Spring Boot and Spring Cloud platform, and writing my own applications in Java and Kotlin programming languages.
