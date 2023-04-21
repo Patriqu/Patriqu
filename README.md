@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Patriqu/Patriqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me
+Hello 👋 I'm a Software Engineer with more than 5 years of commercial experience in writing web applications mainly in Java and JavaScript.
+
+🌱 I’m currently improving my knowledge of Spring Boot and Spring Cloud platform, and writing my own applications in Java and Kotlin programming languages.
