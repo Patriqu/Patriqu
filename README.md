@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### About Me
 Hello 👋 I'm a Software Engineer with 6 years of commercial experience in writing backend web applications in Java and also in plain JavaScript & jQuery on frontend. I also have experience in Python, C++, and C# programs.
 
-🌱 I’m currently improving my knowledge of Spring Boot and Spring Cloud platforms, and writing my own applications in Java and Kotlin programming languages.
+🌱 I’m currently improving my knowledge of Spring Boot, Spring Cloud platforms, microservices architecture, cloud concepts, Angular and Vue frameworks, and writing my own applications in Java, Kotlin, and C++ programming languages.
 
 ⚡Projects in progress:
 - [Music portals aggregator](https://github.com/Patriqu/MusicPortalsAggregator) - Java, Spring Boot 3, Spring Security, Google, and other APIs, a project still in progress for aggregating data about last played songs and videos from personal accounts at YouTube, Spotify, and Last.fm,
