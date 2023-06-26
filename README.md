@@ -30,3 +30,5 @@ Hello 👋 I'm a Software Engineer with 6 years of commercial experience in writ
 
 ⚡Projects On-Hold
 - [CosmicFPSLibgdx](https://github.com/Patriqu/CosmicFPSLibgdx) - First-Person Shooter game in Libgdx and Kotlin
+
+I will be also uploading my old developed experimental projects for Android.
