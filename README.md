@@ -19,10 +19,10 @@ Hello 👋 I'm a Software Engineer with 6 years of commercial experience in writ
 🌱 I’m currently improving my knowledge of Spring Boot and Spring Cloud platforms, and writing my own applications in Java and Kotlin programming languages.
 
 ⚡Projects in progress:
-- Music portals aggregator (Kotlin, Spring Boot)
-- DAW (Digital Audio Workstation) - in progress, to be uploaded on GitHub
-- Memo Game - written in Kotlin and libGDX game development framework
-- Arkanoid 2D - written in C++, SDL 2.0 library, bug fixing, refactoring, and improving.
+- Music portals aggregator - Java, Spring Boot 3, Spring Security, Google, and other APIs, a project still in progress for aggregating data about last played songs and videos from personal accounts at YouTube, Spotify, and Last.fm,
+- DAW (Digital Audio Workstation) - beginning progress, to be uploaded on GitHub, Kotlin, Spring Boot,
+- Memo - a game developed completely in Kotlin and libGDX game development framework,
+- Arkanoid 2D - a project developed since 2015 with breaks, in C++, SDL 2.0 library, currently bug fixing, refactoring, and improving.
 
 ⚡Planning Phase
-- App for aggregating the latest job posts from different job boards, easier sending resumes to different portals, and easier updating about me information.
+- App for aggregating the latest job posts from different job boards, easier sending resumes and updating "about me" information on different job portals.
