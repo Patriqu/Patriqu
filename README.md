@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-Hello 👋 I'm a Software Engineer with more than 5 years of commercial experience in writing backend web applications in Java and also in plain JavaScript & jQuery on frontend. I'm also have an experience in writing Python, C++, and C# programs.
+Hello 👋 I'm a Software Engineer with 6 years of commercial experience in writing backend web applications in Java and also in plain JavaScript & jQuery on frontend. I also have experience in Python, C++, and C# programs.
 
-🌱 I’m currently improving my knowledge of Spring Boot and Spring Cloud platform, and writing my own applications in Java and Kotlin programming languages.
+🌱 I’m currently improving my knowledge of Spring Boot and Spring Cloud platforms, and writing my own applications in Java and Kotlin programming languages.
+
+⚡Projects in progress:
+- Music portals aggregator (Kotlin, Spring Boot)
+- DAW (Digital Audio Workstation) - in progress, to be uploaded on GitHub
+- Memo Game - written in Kotlin and libGDX game development framework
+- Arkanoid 2D - written in C++, SDL 2.0 library, bug fixing, refactoring, and improving.
+
+⚡Planning Phase
+- App for aggregating the latest job posts from different job boards, easier sending resumes to different portals, and easier updating about me information.
