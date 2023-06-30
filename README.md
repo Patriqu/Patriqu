@@ -20,8 +20,9 @@ Hello 👋 I'm a Software Engineer with 6 years of commercial experience in writ
 
 ⚡Projects in progress:
 - [Music portals aggregator](https://github.com/Patriqu/MusicPortalsAggregator) - Java, Spring Boot 3, Spring Security, Google, and other APIs, a project still in progress for aggregating data about last played songs and videos from personal accounts at YouTube, Spotify, and Last.fm,
-- DAW (Digital Audio Workstation) - Kotlin, Spring Boot project, beginning phase, to be uploaded on GitHub in the near future,
-- [MemoLibgdx](https://github.com/Patriqu/MemoLibgdx) - a game developed completely in Kotlin and libGDX game development framework,
+- [EcommerceMicroservices](https://github.com/Patriqu/EcommerceMicroservices) - Spring microservices architecture, in which I experiment with different spring boot and cloud projects and microservices patterns,
+- BrowserDAW (Digital Audio Workstation) - Kotlin, Spring Boot project, beginning phase, to be uploaded on GitHub in the near future,
+- [MemoLibgdx](https://github.com/Patriqu/MemoLibgdx) - a game developed entirely in Kotlin and libGDX game development framework,
 - [Cosmonoid-Cpp](https://github.com/Patriqu/Cosmonoid-Cpp) - a project developed since 2015 with breaks, in C++, SDL 2.0 library, currently bug fixing, refactoring, and improving.
 
 ⚡Planning Phase
