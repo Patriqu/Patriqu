@@ -29,6 +29,3 @@ Hello 👋 I'm a Software Engineer with 6 years of commercial experience in writ
 - [CosmicFPSLibgdx](https://github.com/Patriqu/CosmicFPSLibgdx) - First-Person Shooter game in Libgdx and Kotlin
 - BrowserDAW (Digital Audio Workstation) - Kotlin, Spring Boot project, beginning phase, to be uploaded on GitHub in the near future,
 - [rusty_cosmonoid](https://github.com/Patriqu/rusty_cosmonoid) - rewriting Cosmonoid in Rust language
-
-⚡Planning Phase
-- App for aggregating the latest job posts from different job boards, easier sending resumes and updating "about me" information on different job portals,
