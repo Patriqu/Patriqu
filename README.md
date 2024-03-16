@@ -18,7 +18,9 @@ Hello 👋 I'm a Software Engineer with 6 years of commercial experience in writ
 
 🌱 I’m currently improving my knowledge of Spring Boot, Spring Cloud platforms, microservices architecture, cloud concepts, Angular and Vue frameworks, and writing my own applications in Java, Kotlin, and C++ programming languages.
 
-⚡Part of projects in progress:
+[EDIT 16.03.2024] I WILL UPDATE CURRENT STATUS OF THE PROJECTS SOON
+
+⚡Part of projects in progress as of September 2023:
 - [Music portals aggregator](https://github.com/Patriqu/MusicPortalsAggregator) - Java, Spring Boot 3, Spring Security, Google, and other APIs, a project still in progress for aggregating data about last played songs and videos from personal accounts at YouTube, Spotify, and Last.fm,
 - [SpaceflightBookingSystem](https://github.com/Patriqu/SpaceflightBookingSystem) - Spring Boot 3, Spring Data JPA, Java project of a spaceflight booking system for tourist flights to different celestial bodies and space places.
 - [EcommerceMicroservices](https://github.com/Patriqu/EcommerceMicroservices) - Spring microservices architecture, in which I experiment with different spring boot and cloud projects and microservices patterns,
