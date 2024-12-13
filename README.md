@@ -29,6 +29,8 @@ I'm currently working in the company as a Fullstack Software developer with Java
 - [Cosmonoid-Cpp](https://github.com/Patriqu/Cosmonoid-Cpp) - a project developed since 2015 with breaks, in C++, SDL 2.0 library, currently bug fixing, refactoring, and improving.
 
 ⚡Projects On-Hold
-- [CosmicFPSLibgdx](https://github.com/Patriqu/CosmicFPSLibgdx) - First-Person Shooter game in Libgdx and Kotlin
-- BrowserDAW (Digital Audio Workstation) - Kotlin, Spring Boot project, beginning phase, to be uploaded on GitHub in the near future,
-- [rusty_cosmonoid](https://github.com/Patriqu/rusty_cosmonoid) - rewriting Cosmonoid in Rust language
+- [CosmicFPSLibgdx](https://github.com/Patriqu/CosmicFPSLibgdx) - First-Person Shooter game in Libgdx and Kotlin.
+
+⚡Planned projects
+- Equalizer for Android mobile system
+- BrowserDAW (Digital Audio Workstation) - Kotlin, Spring Boot project, beginning phase, to be uploaded on GitHub in the near future.
