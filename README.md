@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Hello 👋 I'm a Software Engineer with over 7 years of commercial experience in writing backend web applications in Java and also in plain JavaScript & jQuery on frontend. I also have experience in Python, C++, and C# programs.
 I'm currently working in the company as a Fullstack Software developer with Java, JavaEE, Wildfly, Spring Boot 3, JS/TS, HTML, CSS, and Angular 17 stack.
 
-🌱 I’m currently improving my knowledge of Spring Boot, Spring Cloud platforms, microservices architecture, Kubernetes, cloud concepts, AI technologies and tools.
+🌱 I'm deepening my knowledge and skills in Linux, AI tools, Qt6 C++ library, distributed systems, and cloud concepts.
 
 ⚡Projects I'm recently worked on (21.01.2026):
 - Todo List for Linux based on Qt 6 library
