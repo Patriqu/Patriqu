@@ -21,7 +21,7 @@ I'm currently working in the company as a Fullstack Software developer with Java
 
 ⚡Projects I'm recently worked on (21.01.2026):
 - Todo List for Linux
-- [MControlCenter (Linux) fork](https://github.com/Patriqu/MControlCenter/tree/0.4.2-add-fan-profiles) - adding saving Fan Profiles settings (currently only for the old application version) for different system usage scenarios, loading profiles from the ini file; adding and removing profiles from gui in progress,
+- [MControlCenter (Linux) fork](https://github.com/Patriqu/MControlCenter/tree/0.4.2-add-fan-profiles) - adding saving Fan curves profiles for different system usage scenarios and games, loading profiles from the ini file; adding and removing profiles from gui to be added,
 - [EcommerceMicroservices](https://github.com/Patriqu/EcommerceMicroservices) - Spring microservices architecture, in which I experiment with different spring boot and cloud projects and microservices patterns,
 - [SpaceflightBookingSystem](https://github.com/Patriqu/SpaceflightBookingSystem) - Spring Boot 3, Spring Data JPA, Java project of a spaceflight booking system for tourist flights to different celestial bodies and space places.
 
