@@ -20,7 +20,7 @@ I'm currently working in the company as a Fullstack Software developer with Java
 🌱 I’m currently improving my knowledge of Spring Boot, Spring Cloud platforms, microservices architecture, Kubernetes, cloud concepts, Angular microfrontent framework, and writing my own applications using different programming languages like Java, Kotlin, TS/JS and C++.
 
 ⚡Projects I'm recently worked on (21.01.2026):
-- Todo List for Linux
+- Todo List for Linux based on Qt 6 library
 - [MControlCenter (Linux) fork](https://github.com/Patriqu/MControlCenter/tree/0.4.2-add-fan-profiles) - adding saving Fan curves profiles for different system usage scenarios and games, loading profiles from the ini file; adding and removing profiles from gui to be added,
 - [EcommerceMicroservices](https://github.com/Patriqu/EcommerceMicroservices) - Spring microservices architecture, in which I experiment with different spring boot and cloud projects and microservices patterns,
 - [SpaceflightBookingSystem](https://github.com/Patriqu/SpaceflightBookingSystem) - Spring Boot 3, Spring Data JPA, Java project of a spaceflight booking system for tourist flights to different celestial bodies and space places.
